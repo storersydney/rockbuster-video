@@ -9,6 +9,8 @@ Amazon Prime, the management aims to leverage its
 existing movie licenses to remain competitive in the 
 market.
 
+SQL is used to query and analyze the data, and results are visualized to deliver data-driven insights.
+
 ## Key Questions
 The Rockbuster Stealth Management Board has asked a series of business questions and
 they expect data-driven answers that they can use for their 2020 company strategy. Here are
