@@ -21,5 +21,6 @@ the main questions they’d like to answer:
 * Do sales figures vary between geographic regions?
 
 ## Technology Used
-Rockbuster's data was held in a Relational Database Management System. Data included information about past rentals and purchases, customer information, film information, and more. PostgreSQL was used with pgAdmin4 to analyze the data. Tableau Public was used for data visualizations. Google Sheets was used for the final presentation. 
+Rockbuster's data was held in a Relational Database Management System. Data included information about past rentals and purchases, customer information, film information, and more. PostgreSQL was used with pgAdmin4 to analyze the data. Tableau Public was used for data visualizations. Google Sheets was used for the final presentation.
+
 View visualizations here: [Tableau Visualizations](https://public.tableau.com/app/profile/sydney.storer/viz/RockbusterDataAnalysis_17230816279990/customerpaymentmap)
