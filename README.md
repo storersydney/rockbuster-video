@@ -14,11 +14,11 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 they expect data-driven answers that they can use for their 2020 company strategy. Here are
 the main questions they’d like to answer:
 
-● Which movies contributed the most/least to revenue gain?
-● What was the average rental duration for all videos?
-● Which countries are Rockbuster customers based in?
-● Where are customers with a high lifetime value based?
-● Do sales figures vary between geographic regions?
+* Which movies contributed the most/least to revenue gain?
+* What was the average rental duration for all videos?
+* Which countries are Rockbuster customers based in?
+* Where are customers with a high lifetime value based?
+* Do sales figures vary between geographic regions?
 
 ## Technology Used
 Rockbuster's data was held in a Relational Database Management System. Data included information about past rentals and purchases, customer information, film information, and more. PostgreSQL was used with pgAdmin4 to analyze the data. Tableau Public was used for data visualizations. Google Sheets was used for the final presentation. 
