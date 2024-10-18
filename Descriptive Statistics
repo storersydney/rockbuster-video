@@ -1,0 +1,16 @@
+#Calculate descriptive statistics for numeric columns from the film table
+
+SELECT MIN (rental_duration) AS min_rent_duration,	
+	MAX(rental_duration) AS max_rent_duration,
+	AVG (rental_duration) AS avg_rent_duration,
+	MIN(rental_rate) AS min_rental_cost,
+	MAX (rental_rate) AS max_rental_cost,
+	AVG (rental_rate) AS avg_rental_cost,
+	MIN (length) AS min_film_length,
+	MAX (length) AS max_film_length,
+	AVG (length) AS avg_film_length,
+	MIN (replacement_cost) AS min_replace_cost,
+	MAX (replacement_cost) AS max_replace_cost,
+	AVG (replacement_cost) AS avg_replace_cost
+FROM film;	
+
